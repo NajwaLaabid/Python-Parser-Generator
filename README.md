@@ -1,2 +1,2 @@
 # Python-Parser-Generator
-When fed a dlr grammar, this program automatically generates a parser for your programming language.
+Program to automatically generate an LL(1) recurive descent parser for your grammar (grammar should be LL(1) compatible and in BNF or EBNF format).
